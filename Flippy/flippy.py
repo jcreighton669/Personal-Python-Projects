@@ -7,7 +7,12 @@
 # Python", chapter 15:
 # http://inventwithpython.com/chapter15.html
 
-import random, sys, pygame, time, copy
+import copy
+import pygame
+import random
+import sys
+import time
+
 from pygame.locals import *
 
 FPS = 10  # frames per second to update the screen
